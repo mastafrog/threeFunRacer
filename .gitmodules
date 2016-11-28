@@ -1,0 +1,8 @@
+[submodule "submodules/microstaticserver"]
+	path = submodules/microstaticserver
+    url = git@github.com:mastafrog/microstaticserver.git
+    ignore = untracked
+[submodule "submodules/three.js"]
+	path = submodules/three.js
+    url = https://github.com/mrdoob/three.js.git
+    ignore = untracked
